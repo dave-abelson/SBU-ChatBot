@@ -23,7 +23,7 @@ logSize = 1
 ticks = 0 
 
 chatLog = []
-staticResponses = ["ASL?", "Whats gucci", "How are you my ***REMOVED***", "I have ***REMOVED***.", "Introduce me to your ***REMOVED*** grand wizards"]
+staticResponses = ["ASL?", "Whats gucci", "How are you my friend", "I am artistic", "Introduce me to your maplestory grand wizards"]
 
 def doesExist(name, classification):
 	try:
