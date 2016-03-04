@@ -15,3 +15,7 @@ Project for Machine Learning club at Stony Brook University.
 
 # Attribution
 conversations.json taken from gunthercox/ChatterBot repository.
+
+# Known Bugs
+
+-If Stranger ends, and want to move onto new chat it breaks "omegle-py"
